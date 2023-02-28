@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Mon Profil GitHub</title>
-</head>
-<body>
+<div>
     <h1>Mon Profil GitHub</h1>
     <p>Je suis un étudiant en informatique passionné par les technologies web et les logiciels libres.</p>
     
@@ -28,5 +22,4 @@
         <li>Email : <a href="mailto:monadresseemail@example.com">monadresseemail@example.com</a></li>
         <li>LinkedIn : <a href="https://www.linkedin.com/in/mon-profil-linkedin/">mon profil LinkedIn</a></li>
     </ul>
-</body>
-</html>
+</div>
