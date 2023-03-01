@@ -16,7 +16,7 @@
     </ul>
     <h2>Me contacter</h2>
     <ul>
-        <li>Email : <a href="mailto:monadresseemail@example.com">monadresseemail@example.com</a></li>
-        <li>LinkedIn : <a href="https://www.linkedin.com/in/mon-profil-linkedin/">mon profil LinkedIn</a></li>
+        <li>Email : <a href="mailto:kohler.jarod.2004@gmail.com">kohler.jarod.2004@gmail.com</a></li>
+        <li>LinkedIn : <a href="[https://www.linkedin.com/in/mon-profil-linkedin/](https://www.linkedin.com/in/jarod-kohler-b55060250/)">mon profil LinkedIn</a></li>
     </ul>
 </div>
