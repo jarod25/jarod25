@@ -15,9 +15,10 @@
 
 ## Mes compétences
 
-### Langages de programmation appris en cours (IUT)
+### Langages et frameworks vus à l'IUT
 <ul style="vertical-align: bottom; margin-right: 10px">
     <li><img title="Java" alt="Java" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java</li>
+    
     <li><img title="C" alt="C" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> C</li>
     <li><img title="CPP" alt="CPP" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> C++</li>
     <li><img title="HTML" alt="HTML" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML</li>
@@ -35,6 +36,7 @@
 </ul>
 
 
+
 ## Mes projets
 
 <ul>
@@ -48,6 +50,6 @@
 
 <ul>
     <li>Email : <a href="mailto:kohler.jarod.2004@gmail.com">kohler.jarod.2004@gmail.com</a></li>
-    <li>LinkedIn : <a href="https://www.linkedin.com/in/jarod-kohler-b55060250/">Mon Profil LinkedIn</a></li>
+    <li>[<img alt="linked-in" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />]LinkedIn : <a href="https://www.linkedin.com/in/jarod-kohler-b55060250/">Mon Profil LinkedIn</a></li>
 </ul>
     
