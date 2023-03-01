@@ -34,10 +34,10 @@
 
 ### Base de données
 
-<ul style="vertical-align: middle; margin-right: 10px">
-    <li><img title="MySQL" alt="MySQL" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> MySQL</li>
-    <li><img title="PostgreSQL" alt="PostgreSQL" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> PostgreSQL</li>
-    <li><img title="MongoDB" alt="MongoDB" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> MongoDB</li>
+<ul>
+    <li><img title="MySQL" alt="MySQL" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg"/> MySQL</li>
+    <li><img title="PostgreSQL" alt="PostgreSQL" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PostgreSQL-Dark.svg"/> PostgreSQL</li>
+    <li><img title="MongoDB" alt="MongoDB" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg"/> MongoDB</li>
 </ul>
 
 
