@@ -16,11 +16,12 @@
 ## Mes compétences
 
 ### Langages et frameworks vus à l'IUT
-<ul style="display:flex; justify-content:center; align-items:center; vertical-align:center">
+<ul>
     <li><img title="Java" alt="Java" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java</li>
     <li><img title="JavaFx" alt="JavaFx" width="20px" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png"/> JavaFx</li>
     <li><img title="C" alt="C" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> C</li>
     <li><img title="CPP" alt="CPP" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> C++</li>
+    <li><img title="QT" alt="QT" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/QT-Dark.svg"/> QT</li>
     <li><img title="HTML" alt="HTML" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML</li>
     <li><img title="CSS" alt="CSS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS</li>
     <li><img title="NodeJS" alt="NodeJS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> NodeJS</li>
