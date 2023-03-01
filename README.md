@@ -49,7 +49,7 @@
 ## Me contacter
 
 <ul>
-    <li><img alt="linked-in" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png)" height="15" width="auto"/> Email : <a href="mailto:kohler.jarod.2004@gmail.com">kohler.jarod.2004@gmail.com</a></li>
+    <li><img alt="linked-in" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="15" width="auto"/> Email : <a href="mailto:kohler.jarod.2004@gmail.com">kohler.jarod.2004@gmail.com</a></li>
     <li><img alt="linked-in" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="15" width="auto"/> LinkedIn : <a href="https://www.linkedin.com/in/jarod-kohler-b55060250/">Mon Profil LinkedIn</a></li>
 </ul>
     
