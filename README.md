@@ -50,6 +50,6 @@
 
 <ul>
     <li>Email : <a href="mailto:kohler.jarod.2004@gmail.com">kohler.jarod.2004@gmail.com</a></li>
-    <li><img alt="linked-in" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="15" width="auto"/>LinkedIn : <a href="https://www.linkedin.com/in/jarod-kohler-b55060250/">Mon Profil LinkedIn</a></li>
+    <li><img alt="linked-in" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://github.com/rahuldkjain/github-profile-readme-generator/blob/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/linked-in.svg)" height="15" width="auto"/> LinkedIn : <a href="https://www.linkedin.com/in/jarod-kohler-b55060250/">Mon Profil LinkedIn</a></li>
 </ul>
     
