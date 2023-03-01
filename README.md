@@ -2,10 +2,10 @@
 
 ## Sommaire
 
-[A propos de moi](#a_propos)
-[Mes compétences](#competences)
-[Mes projets](#projets)
-[Me contacter](#contact)
+- [A propos de moi](#a_propos)
+- [Mes compétences](#competences)
+- [Mes projets](#projets)
+- [Me contacter](#contact)
 
 
 ## A propos de moi
@@ -17,7 +17,22 @@
 
 ### Langages de programmation appris en cours (IUT)
 <ul>
-    <li><img title="Java" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>Java</li>
+    <li><img title="Java" alt="Java" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>Java</li>
+    <li><img title="C" alt="C" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>C</li>
+    <li><img title="CPP" alt="CPP" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>C++</li>
+    <li><img title="HTML" alt="HTML" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>HTML</li>
+    <li><img title="CSS" alt="CSS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>CSS</li>
+    <li><img title="NodeJS" alt="NodeJS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>NodeJS</li>
+    <li><img title="Javascript" alt="Javascript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>JavaScript</li>
+</ul>
+
+### Base de données
+
+<ul>
+    <li><img title="MySQL" alt="MySQL" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>MySQL</li>
+    <li><img title="PostgreSQL" alt="PostgreSQL" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>PostgreSQL</li>
+    <li><img title="MongoDB" alt="MongoDB" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>MongoDB</li>
+</ul>
 
 
 ## Mes projets
