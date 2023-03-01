@@ -24,8 +24,12 @@
     <li><img title="QT" alt="QT" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/QT-Dark.svg"/> QT</li>
     <li><img title="HTML" alt="HTML" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML</li>
     <li><img title="CSS" alt="CSS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS</li>
-    <li><img title="NodeJS" alt="NodeJS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> NodeJS</li>
     <li><img title="Javascript" alt="Javascript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript</li>
+    <li><img title="NodeJS" alt="NodeJS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> NodeJS</li>
+    <li><img title="ExpressJS" alt="ExpressJS" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg"/> ExpressJS</li>
+    <li><img title="VueJS" alt="VueJS" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VueJS-Dark.svg"/> VueJS</li>
+    <li><img title="Python" alt="Python" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg"/> Python</li>
+    <li><img title="Flask" alt="Flask" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flask-Dark.svg"/> Flask</li>
 </ul>
 
 ### Base de données
