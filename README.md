@@ -8,14 +8,12 @@
         <li>Bases de données : MySQL, MongoDB</li>
         <li>Outils de développement : Git, IntelliJ IDEA, VS Code</li>
     </ul>
-    
     <h2>Mes projets</h2>
     <ul>
         <li><a href="https://github.com/nom-du-projet-1">Nom du projet 1</a></li>
         <li><a href="https://github.com/nom-du-projet-2">Nom du projet 2</a></li>
         <li><a href="https://github.com/nom-du-projet-3">Nom du projet 3</a></li>
     </ul>
-    
     <h2>Me contacter</h2>
     <ul>
         <li>Email : <a href="mailto:monadresseemail@example.com">monadresseemail@example.com</a></li>
