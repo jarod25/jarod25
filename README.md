@@ -1,7 +1,6 @@
 <div>
     <h1>Mon Profil GitHub</h1>
     <p>Je suis un étudiant en informatique passionné par les technologies web et les logiciels libres.</p>
-    
     <h2>Mes compétences</h2>
     <ul>
         <li>Langages de programmation : Java, Python, JavaScript</li>
