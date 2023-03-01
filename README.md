@@ -16,7 +16,7 @@
 ## Mes compétences
 
 ### Langages de programmation appris en cours (IUT)
-<ul style="vertical-align: middle; margin-right: 10px">
+<ul style="vertical-align: bottom; margin-right: 10px">
     <li><img title="Java" alt="Java" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java</li>
     <li><img title="C" alt="C" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> C</li>
     <li><img title="CPP" alt="CPP" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> C++</li>
