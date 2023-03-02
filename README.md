@@ -43,9 +43,7 @@ En dehors de mes études, je pratique régulièrement le badminton et le vélo. 
 
 ### Systèmes d'exploitation
 
-<img alt="ubuntu" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" height="50" style="margin: 5px">
-<img alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" height="50" style="margin: 5px">
-<img alt="windows" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" height="50" style="margin: 5px">
+<img alt="ubuntu" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" height="50" style="margin: 5px"><img alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" height="50" style="margin: 5px"><img alt="windows" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" height="50" style="margin: 5px">
 
 ### Architectures
 
