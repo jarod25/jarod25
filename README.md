@@ -10,7 +10,7 @@
 
 ## A propos de moi
 <div style="text-align: justify">
-Actuellement étudiant en BUT Informatique à Belfort, je suis passionné d'informatique depuis mon plus jeune âge et j'ai toujours aimé comprendre comment fonctionnaient les ordinateurs et les logiciels.<br>
+Actuellement étudiant en BUT Informatique à Belfort, je suis passionné d'informatique depuis mon plus jeune âge et j'ai toujours aimé comprendre comment fonctionnaient les ordinateurs et les logiciels.<br><br>
 
 Au fil des années, j'ai acquis de solides compétences en programmation logiciels, en développement web et en gestion de bases de données. J'aime particulièrement travailler sur des projets ambitieux qui me permettent de repousser mes limites et d'apprendre de nouvelles technologies.<br>
 
