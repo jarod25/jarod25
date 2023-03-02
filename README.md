@@ -2,10 +2,10 @@
 
 ## Sommaire
 
-- [A propos de moi](#A propos de moi)
-- [Mes compétences](#Mes compétences)
-- [Mes projets](#Mes projets)
-- [Me contacter](#Me contacter)
+- [A propos de moi](#A-propos-de-moi)
+- [Mes compétences](#Mes-compétences)
+- [Mes projets](#Mes-projets)
+- [Me contacter](#Me-contacter)
 
 
 ## A propos de moi
@@ -43,7 +43,7 @@
 ### Langages appris en autodidacte
 
 <ul>
-    <li><img title="Arduino" alt="Arduino" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Arduino.svg"/> Arduino (Lycée) <progress value="30" max="100"></progress></li>
+    <li><img title="Arduino" alt="Arduino" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Arduino.svg"/> Arduino (Lycée) ![50%](https://progress-bar.dev/50)</li>
     <li><img title="PostgreSQL" alt="PostgreSQL" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PostgreSQL-Dark.svg"/> PostgreSQL</li>
     <li><img title="MongoDB" alt="MongoDB" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg"/> MongoDB</li>
 </ul>
