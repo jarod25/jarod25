@@ -2,10 +2,10 @@
 
 ## Sommaire
 
-- [A propos de moi](#a_propos)
-- [Mes compétences](#competences)
-- [Mes projets](#projets)
-- [Me contacter](#contact)
+- [A propos de moi](#A propos de moi)
+- [Mes compétences](#Mes compétences)
+- [Mes projets](#Mes projets)
+- [Me contacter](#Me contacter)
 
 
 ## A propos de moi
@@ -40,7 +40,13 @@
     <li><img title="MongoDB" alt="MongoDB" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg"/> MongoDB</li>
 </ul>
 
+### Langages appris en autodidacte
 
+<ul>
+    <li><img title="Arduino" alt="Arduino" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Arduino.svg"/> Arduino (Lycée) <progress value="30" max="100"></progress></li>
+    <li><img title="PostgreSQL" alt="PostgreSQL" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PostgreSQL-Dark.svg"/> PostgreSQL</li>
+    <li><img title="MongoDB" alt="MongoDB" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg"/> MongoDB</li>
+</ul>
 
 ## Mes projets
 
@@ -54,7 +60,7 @@
 ## Me contacter
 
 <ul>
-    <li><img alt="linked-in" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="15" width="auto"/> Email : <a href="mailto:kohler.jarod.2004@gmail.com">kohler.jarod.2004@gmail.com</a></li>
-    <li><img alt="linked-in" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="15" width="auto"/> LinkedIn : <a href="https://www.linkedin.com/in/jarod-kohler-b55060250/">Mon Profil LinkedIn</a></li>
+    <li><img alt="linked-in" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="15px" width="20px"/> Email : <a href="mailto:kohler.jarod.2004@gmail.com">kohler.jarod.2004@gmail.com</a></li>
+    <li><img alt="linked-in" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="15px" width="20px"/> LinkedIn : <a href="https://www.linkedin.com/in/jarod-kohler-b55060250/">Mon Profil LinkedIn</a></li>
 </ul>
     
