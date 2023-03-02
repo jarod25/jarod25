@@ -32,7 +32,7 @@
     <li><img title="Flask" alt="Flask" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flask-Dark.svg"/> Flask</li>
 </ul>
 
-### Base de données
+### Bases de données
 
 <ul>
     <li><img title="MySQL" alt="MySQL" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg"/> MySQL</li>
@@ -42,11 +42,21 @@
 
 ### Langages appris en autodidacte
 
-<ul>
-    <li><img title="Arduino" alt="Arduino" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Arduino.svg"/> Arduino (Lycée) ![50%](https://progress-bar.dev/50)</li>
-    <li><img title="PostgreSQL" alt="PostgreSQL" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PostgreSQL-Dark.svg"/> PostgreSQL</li>
-    <li><img title="MongoDB" alt="MongoDB" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg"/> MongoDB</li>
-</ul>
+- <img title="Arduino" alt="Arduino" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Arduino.svg"/> Arduino
+- <img title="PHP" alt="PHP" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PHP-Dark.svg"/> PHP
+- <img title="Rust" alt="Rust" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Rust.svg"/> Rust
+- <img title="Ruby" alt="Ruby" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Ruby.svg"/> Ruby
+- <img title="TypeScript" alt="TypeScript" width="20px" src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg"/> TypeScript
+
+
+### Architectures
+
+### Outils
+
+### Logiciels
+
+
+
 
 ## Mes projets
 
