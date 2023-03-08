@@ -61,7 +61,7 @@ En dehors de mes études, je pratique régulièrement le badminton et le vélo. 
 - [La Cour Médiévale De Monseigneur Ambert](https://github.com/toma68/LCMDMA) <br>
 Site web en NodeJS et VueJS avec Sequelize et Swagger pour la convention médiévale nommée "La Cour Médiévale De Monseigneur Ambert"
 - [Mon Site Web (le projet)](https://github.com/jarod25/My_WebSite)
-- [Mon Site Web (le site)](https://jarod-kohler.fr)
+- [Mon Site Web (le site)](http://www.jarod-kohler.fr/)
 
 ## Statistiques 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarod25&layout=compact&exclude_repo=s1-2021-ihm,SAE3-4-5&&langs_count=12)
