@@ -5,6 +5,7 @@
 - [A propos de moi](#A-propos-de-moi)
 - [Mes compétences](#Mes-compétences)
 - [Mes projets](#Mes-projets)
+- [Statistiques](#Statistiques)
 - [Me contacter](#Me-contacter)
 
 
@@ -62,8 +63,7 @@ Site web en NodeJS et VueJS avec Sequelize et Swagger pour la convention médié
 - [Mon Site Web (le projet)](https://github.com/jarod25/My_WebSite)
 - [Mon Site Web (le site)](https://jarod-kohler.fr)
 
-## Statistiques de mon profil
-Les projets réalisés à l'IUT ne sont pas pris en compte<br>
+## Statistiques 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarod25&layout=compact&exclude_repo=s1-2021-ihm,SAE3-4-5&&langs_count=12)
 
 
