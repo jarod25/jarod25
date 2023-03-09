@@ -64,7 +64,8 @@ Site web en NodeJS et VueJS avec Sequelize et Swagger pour la convention médié
 - [Mon Site Web (le site)](http://www.jarod-kohler.fr/)
 
 ## Statistiques 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarod25&layout=compact&exclude_repo=s1-2021-ihm,SAE3-4-5&&langs_count=12)
+![Jarod25's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jarod25&langs_count=12&theme=tokyonight&layout=compact)
+![Jarod25's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jarod25&count_private=true&theme=tokyonight&showicons=true) 
 
 
 ## Me contacter
