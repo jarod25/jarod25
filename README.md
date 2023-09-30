@@ -24,7 +24,7 @@ En dehors de mes études, je pratique régulièrement le badminton et le vélo. 
 
 ### Langages
 
-![Langages](https://skillicons.dev/icons?i=java,c,cpp,html,css,js,py,arduino,php,rust,ruby,ts&perline=6)
+![Langages](https://skillicons.dev/icons?i=js,java,c,cpp,html,css,js,py,arduino,php,ts&perline=6)
 
 ### Frameworks
 
@@ -32,7 +32,7 @@ En dehors de mes études, je pratique régulièrement le badminton et le vélo. 
 
 ### Outils
 
-![Outils](https://skillicons.dev/icons?i=github,gitlab,docker,jenkins,maven&perline=6)
+![Outils](https://skillicons.dev/icons?i=github,gitlab,docker,jenkins,maven,gherkin&perline=6)
 
 ### Logiciels
 
@@ -44,7 +44,7 @@ En dehors de mes études, je pratique régulièrement le badminton et le vélo. 
 
 ### Systèmes d'exploitation
 
-<img alt="ubuntu" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" height="50" style="margin: 5px"><img alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" height="50" style="margin: 5px"><img alt="windows" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" height="50" style="margin: 5px">
+<img alt="ubuntu" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" height="50" style="margin: 10px"><img alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" height="50" style="margin: 10px"><img alt="windows" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" height="50" style="margin: 10px"><img alt="macos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/2060px-MacOS_logo_%282017%29.svg.png" height="50" style="margin: 10px">
 
 ### Architectures
 
