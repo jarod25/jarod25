@@ -24,11 +24,12 @@ En dehors de mes études, je pratique régulièrement le badminton et le vélo. 
 
 ### Langages
 
-![Langages](https://skillicons.dev/icons?i=js,java,c,cpp,html,css,js,py,arduino,php,ts&perline=6)
+![Langages](https://skillicons.dev/icons?i=js,java,c,cpp,html,css,py,arduino,php,ts&perline=6)
 
 ### Frameworks
 
-![Frameworks](https://skillicons.dev/icons?i=nodejs,express,vuejs,flask,qt,symfony&perline=6)
+![Frameworks](https://skillicons.dev/icons?i=nodejs,express,vuejs,flask,qt,symfony&perline=6) <br>
+<img alt="javafx" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" height="50">
 
 ### Outils
 
@@ -44,7 +45,12 @@ En dehors de mes études, je pratique régulièrement le badminton et le vélo. 
 
 ### Systèmes d'exploitation
 
-<img alt="ubuntu" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" height="50" style="margin: 10px"><img alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" height="50" style="margin: 10px"><img alt="windows" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" height="50" style="margin: 10px"><img alt="macos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/2060px-MacOS_logo_%282017%29.svg.png" height="50" style="margin: 10px">
+<div style="display: inline-block;">
+    <img alt="ubuntu" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" height="50">
+    <img alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" height="50">
+    <img alt="windows" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" height="50">
+    <img alt="macos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/2060px-MacOS_logo_%282017%29.svg.png" height="50">
+</div>
 
 ### Architectures
 
@@ -54,7 +60,6 @@ En dehors de mes études, je pratique régulièrement le badminton et le vélo. 
 - TDD (Test Driven Development)
 - MCD (Modèle Conceptuel de Données)
 - UML (Unified Modeling Language)
-
 
 ## Mes projets
 
@@ -67,8 +72,6 @@ Application de lecture de musique en C++ et QT
 
 ## Statistiques 
 ![Jarod25's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jarod25&langs_count=12&theme=tokyonight&layout=compact)
-![Jarod25's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jarod25&count_private=true&theme=tokyonight&showicons=true) 
-
 
 ## Me contacter
 
