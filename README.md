@@ -46,9 +46,8 @@ En dehors de mes études, je pratique régulièrement le badminton et le vélo. 
 ### Systèmes d'exploitation
 
 <div style="display: inline-block;">
-    <img alt="ubuntu" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" height="50">
-    <img alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" height="50">
-    <img alt="windows" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" height="50">
+    
+![OS](https://skillicons.dev/icons?i=debian,ubuntu,windows&perline=6)
     <img alt="macos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/2060px-MacOS_logo_%282017%29.svg.png" height="50">
 </div>
 
