@@ -16,7 +16,7 @@ Actuellement étudiant en 1ère année de cycle ingénieur à l'ENSISA Mulhouse,
 Au fil des années, j'ai acquis de solides compétences en programmation logiciels, en développement web et en gestion de bases de données. J'aime particulièrement travailler sur des projets ambitieux qui me permettent de repousser mes limites et d'apprendre de nouvelles technologies.<br>
 
 En dehors de mes études, je pratique régulièrement le badminton et le vélo. Ces activités me permettent de me maintenir en forme et de garder l'esprit vif et alerte.
-Je suis également bénévole pour l'association Sociochaux, qui est une association des supporters du FCSM, en tant que développeur JS<br>
+Je suis également bénévole pour l'association Sociochaux, qui est une association des supporters du FCSM, en tant que développeur JS.<br>
 
 À travers toutes ces activités, je développe ma créativité, mon sens de l'organisation et ma capacité à travailler en équipe.
 </div>
