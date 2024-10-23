@@ -29,7 +29,7 @@ Je suis également bénévole pour l'association Sociochaux, qui est une associa
 
 ### Frameworks
 
-![Frameworks](https://skillicons.dev/icons?i=nodejs,express,vuejs,react,symfony,flask,qt,gtk,springy&perline=6) <br>
+![Frameworks](https://skillicons.dev/icons?i=nodejs,express,vuejs,react,symfony,flask,qt,gtk,springy&perline=6)
 <img alt="javafx" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" height="50">
 
 ### Outils
