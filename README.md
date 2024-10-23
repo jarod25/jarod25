@@ -25,11 +25,11 @@ Je suis également bénévole pour l'association Sociochaux, qui est une associa
 
 ### Langages
 
-![Langages](https://skillicons.dev/icons?i=js,java,c,cpp,html,css,py,arduino,php,ts&perline=6)
+![Langages](https://skillicons.dev/icons?i=js,html,css,ts,php,py,java,c,cpp,swift,arduino,kotlin&perline=6)
 
 ### Frameworks
 
-![Frameworks](https://skillicons.dev/icons?i=nodejs,express,vuejs,flask,qt,symfony&perline=6) <br>
+![Frameworks](https://skillicons.dev/icons?i=nodejs,express,vuejs,react,symfony,flask,qt,gtk,springy&perline=6) <br>
 <img alt="javafx" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" height="50">
 
 ### Outils
@@ -61,7 +61,7 @@ Je suis également bénévole pour l'association Sociochaux, qui est une associa
 - MCD (Modèle Conceptuel de Données)
 - UML (Unified Modeling Language)
 
-## Mes projets
+## Mes projets principaux
 
 - [La Cour Médiévale De Monseigneur Ambert](https://github.com/toma68/LCMDMA) <br>
 Site web en NodeJS et VueJS avec Sequelize et Swagger pour la convention médiévale nommée "La Cour Médiévale De Monseigneur Ambert"
@@ -76,6 +76,6 @@ Application de lecture de musique en C++ et QT
 ## Me contacter
 
 - Mail : [kohler.jarod.2004@gmail.com](mailto:kohler.jarod.2004@gmail.com)
-- LinkedIn : [jarod-kohler](https://www.linkedin.com/in/jarod-kohler-b55060250/)
+- LinkedIn : [jarod-kohler](https://www.linkedin.com/in/jarod-kohler/)
 
     
